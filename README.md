@@ -46,6 +46,7 @@ Check out the [deployment documentation](https://nuxt.com/docs/getting-started/d
 ## Step of Intalling Tailwind CSS for Nuxt 3
 
 - https://tailwindcss.com/docs/guides/nuxtjs#3
+- https://daisyui.com/docs/install/
 - https://stackblitz.com/edit/daisyui-nuxt3/?file=package.json
 
 ### Step 1
